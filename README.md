@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fhadil</h1>
-<h3 align="center">A Newbie from Indonesia</h3>
 
 
 - 📫 How to reach me **hafidsfhadil@gmail.com**
